@@ -48,5 +48,6 @@ GetCfRating("doubility")
 2491
 再次跪烂Orz
 2159
+2279
 """
 
