@@ -33,5 +33,4 @@ GetCfRating("quailty")
 print "再次跪烂Orz"
 
 GetCfRating("biGinNer")
-GetCfRating("Raphael_walker")
 GetBcRating("doubility")
